@@ -1,0 +1,187 @@
+Vessel Type,Date,Accident Type,Location,Total Injuries,Total Deaths,Outcome
+Dredger,2023-03-03,Sinking,Kolkata,0,18,Vessel lost
+Tug,2023-09-18,Fire & Explosion,Kolkata,2,1,Vessel lost
+Tug,2023-11-03,Sinking,East Godavari,2,16,Vessel lost
+Tug,2023-12-09,Overloading,Goa,0,1,No vessel loss
+Dredger,2023-12-16,Fire & Explosion,Chennai,1,1,Vessel lost
+Oil Tanker,2023-08-31,Grounding,Off Mangalore,0,0,No vessel loss
+Fishing Boat,2023-12-27,Onboard Injury,Andaman & Nicobar,2,0,Crew treated
+Ferry,2023-07-18,Onboard Injury,Andaman & Nicobar,1,0,Crew treated
+Passenger Boat,2023-07-02,Flooding,Andaman & Nicobar,0,0,No vessel loss
+Oil Tanker,2023-03-02,Sinking,Goa,0,18,Vessel lost
+Chemical Tanker,2023-09-26,Man Overboard,Kochi,0,1,Fatality
+Container Ship,2023-12-13,Grounding,Goa,1,0,No vessel loss
+Chemical Tanker,2023-05-18,Grounding,Mumbai Port,0,0,No vessel loss
+Tug,2023-12-27,Fire & Explosion,At Sea,0,2,Vessel lost
+Bulk Carrier,2023-08-09,Grounding,Andaman & Nicobar,1,1,No vessel loss
+Oil Tanker,2023-02-14,Onboard Injury,Kochi,1,0,Crew treated
+Bulk Carrier,2023-02-08,Grounding,Kolkata,0,1,No vessel loss
+Chemical Tanker,2023-02-24,Overloading,Kolkata,0,1,No vessel loss
+Dredger,2023-05-16,Onboard Injury,Andaman & Nicobar,3,0,Crew treated
+Ferry,2023-09-14,Sinking,Chennai,0,20,Vessel lost
+Fishing Boat,2023-12-20,Capsize,At Sea,1,10,Vessel lost
+Ferry,2023-01-14,Man Overboard,Mumbai Port,0,1,Fatality
+Chemical Tanker,2023-06-23,Collision,Off Mangalore,2,1,Vessel damaged
+Passenger Boat,2023-08-23,Fire & Explosion,Andaman & Nicobar,2,1,Vessel lost
+Bulk Carrier,2023-05-03,Overloading,Kolkata,1,1,No vessel loss
+Fishing Boat,2023-09-08,Overloading,At Sea,0,1,No vessel loss
+Chemical Tanker,2023-01-12,Collision,East Godavari,2,1,Vessel damaged
+Container Ship,2023-12-16,Sinking,Andaman & Nicobar,2,2,Vessel lost
+Bulk Carrier,2023-03-23,Sinking,At Sea,1,6,Vessel lost
+Tug,2023-07-27,Fire & Explosion,East Godavari,1,2,Vessel lost
+Tug,2023-03-19,Onboard Injury,Andaman & Nicobar,1,0,Crew treated
+Fishing Boat,2023-04-30,Overloading,Kochi,0,0,No vessel loss
+Tug,2023-11-18,Flooding,Chennai,0,0,No vessel loss
+Dredger,2023-07-17,Sinking,Kochi,2,15,Vessel lost
+Container Ship,2023-09-17,Fire & Explosion,Kolkata,2,0,Vessel damaged
+Tug,2023-10-06,Overloading,Kochi,0,0,No vessel loss
+Bulk Carrier,2023-11-17,Sinking,At Sea,2,20,Vessel lost
+Bulk Carrier,2023-09-25,Onboard Injury,Chennai,3,0,Crew treated
+Fishing Boat,2023-01-24,Fire & Explosion,East Godavari,2,0,Vessel damaged
+Tug,2023-03-10,Flooding,Goa,0,0,No vessel loss
+Chemical Tanker,2023-09-23,Grounding,Kochi,1,1,No vessel loss
+Dredger,2023-12-09,Grounding,Goa,1,1,No vessel loss
+Dredger,2023-02-16,Collision,Goa,0,0,Vessel damaged
+Dredger,2023-12-14,Onboard Injury,East Godavari,3,0,Crew treated
+Dredger,2023-08-29,Collision,East Godavari,0,0,Vessel damaged
+Fishing Boat,2023-10-21,Grounding,Off Mangalore,0,1,No vessel loss
+Fishing Boat,2023-04-15,Sinking,Kochi,2,14,Vessel lost
+Oil Tanker,2023-11-19,Flooding,Andaman & Nicobar,0,0,No vessel loss
+Tug,2023-07-22,Onboard Injury,Andaman & Nicobar,3,0,Crew treated
+Fishing Boat,2023-02-21,Overloading,Mumbai Port,1,1,No vessel loss
+Oil Tanker,2023-07-25,Flooding,Chennai,1,1,No vessel loss
+Container Ship,2023-05-25,Capsize,East Godavari,0,4,Vessel lost
+Chemical Tanker,2023-05-14,Collision,Andaman & Nicobar,0,0,Vessel damaged
+Bulk Carrier,2023-11-10,Fire & Explosion,Kolkata,2,2,Vessel lost
+Tug,2023-11-25,Collision,Off Mangalore,2,1,Vessel damaged
+Tug,2023-12-12,Sinking,Andaman & Nicobar,1,17,Vessel lost
+Bulk Carrier,2023-12-24,Capsize,At Sea,1,9,Vessel lost
+Tug,2023-10-09,Flooding,Andaman & Nicobar,0,1,No vessel loss
+Oil Tanker,2023-09-24,Collision,Mumbai Port,2,1,Vessel damaged
+Ferry,2023-03-30,Overloading,Kolkata,0,0,No vessel loss
+Dredger,2023-12-27,Onboard Injury,Mumbai Port,1,0,Crew treated
+Bulk Carrier,2023-12-14,Grounding,Kolkata,1,0,No vessel loss
+Fishing Boat,2023-10-21,Fire & Explosion,Chennai,1,0,Vessel damaged
+Bulk Carrier,2023-03-28,Capsize,At Sea,1,12,Vessel lost
+Tug,2023-04-24,Man Overboard,Chennai,0,1,Fatality
+Ferry,2023-05-17,Fire & Explosion,Mumbai Port,2,0,Vessel damaged
+Container Ship,2023-06-05,Capsize,Kolkata,2,2,Vessel lost
+Bulk Carrier,2023-05-23,Grounding,Andaman & Nicobar,0,1,No vessel loss
+Chemical Tanker,2023-03-28,Overloading,Chennai,0,1,No vessel loss
+Oil Tanker,2023-12-27,Onboard Injury,Kochi,1,0,Crew treated
+Dredger,2023-02-03,Collision,Kochi,0,0,Vessel damaged
+Oil Tanker,2023-01-01,Flooding,Chennai,1,1,No vessel loss
+Oil Tanker,2023-09-01,Grounding,Kochi,1,1,No vessel loss
+Chemical Tanker,2023-09-18,Overloading,Kolkata,0,1,No vessel loss
+Fishing Boat,2023-05-07,Grounding,Andaman & Nicobar,1,1,No vessel loss
+Dredger,2023-07-09,Capsize,Chennai,2,12,Vessel lost
+Passenger Boat,2023-03-13,Fire & Explosion,At Sea,2,0,Vessel damaged
+Fishing Boat,2023-11-03,Man Overboard,At Sea,0,1,Fatality
+Bulk Carrier,2023-10-26,Sinking,East Godavari,0,14,Vessel lost
+Oil Tanker,2023-02-24,Overloading,Chennai,1,1,No vessel loss
+Oil Tanker,2023-03-31,Onboard Injury,Kochi,1,0,Crew treated
+Oil Tanker,2023-11-12,Collision,Mumbai Port,2,1,Vessel damaged
+Container Ship,2023-05-07,Man Overboard,Mumbai Port,0,1,Fatality
+Oil Tanker,2023-10-10,Flooding,Off Mangalore,0,0,No vessel loss
+Oil Tanker,2023-09-29,Sinking,Off Mangalore,2,7,Vessel lost
+Fishing Boat,2023-10-17,Onboard Injury,East Godavari,2,0,Crew treated
+Chemical Tanker,2023-11-17,Sinking,East Godavari,0,3,Vessel lost
+Tug,2023-04-30,Sinking,Off Mangalore,1,7,Vessel lost
+Ferry,2023-08-25,Sinking,Kolkata,1,11,Vessel lost
+Tug,2023-03-17,Grounding,Off Mangalore,1,1,No vessel loss
+Container Ship,2023-03-10,Overloading,East Godavari,0,0,No vessel loss
+Tug,2023-12-07,Sinking,East Godavari,0,12,Vessel lost
+Oil Tanker,2023-01-19,Sinking,Kolkata,1,3,Vessel lost
+Fishing Boat,2023-01-09,Overloading,Andaman & Nicobar,0,1,No vessel loss
+Container Ship,2023-07-13,Overloading,Andaman & Nicobar,0,1,No vessel loss
+Oil Tanker,2023-06-25,Flooding,Andaman & Nicobar,1,1,No vessel loss
+Bulk Carrier,2023-03-23,Overloading,Mumbai Port,1,1,No vessel loss
+Chemical Tanker,2023-12-22,Onboard Injury,Kochi,2,0,Crew treated
+Oil Tanker,2023-05-03,Sinking,Mumbai Port,0,6,Vessel lost
+Bulk Carrier,2023-08-18,Man Overboard,East Godavari,0,1,Fatality
+Oil Tanker,2023-05-31,Sinking,East Godavari,1,1,Vessel lost
+Tug,2023-07-23,Fire & Explosion,Chennai,1,0,Vessel damaged
+Chemical Tanker,2023-10-09,Man Overboard,Mumbai Port,0,1,Fatality
+Bulk Carrier,2023-11-02,Overloading,Off Mangalore,0,0,No vessel loss
+Ferry,2023-03-24,Capsize,Andaman & Nicobar,1,12,Vessel lost
+Passenger Boat,2023-05-25,Sinking,East Godavari,1,7,Vessel lost
+Fishing Boat,2023-02-18,Overloading,Kolkata,0,1,No vessel loss
+Bulk Carrier,2023-04-17,Onboard Injury,Mumbai Port,1,0,Crew treated
+Dredger,2023-01-30,Grounding,Kolkata,1,0,No vessel loss
+Dredger,2023-07-31,Onboard Injury,Chennai,2,0,Crew treated
+Passenger Boat,2023-12-03,Overloading,Mumbai Port,0,1,No vessel loss
+Container Ship,2023-05-14,Man Overboard,East Godavari,0,1,Fatality
+Bulk Carrier,2023-08-09,Flooding,Kochi,1,0,No vessel loss
+Chemical Tanker,2023-05-04,Overloading,Mumbai Port,1,0,No vessel loss
+Fishing Boat,2023-03-02,Overloading,At Sea,0,1,No vessel loss
+Container Ship,2023-05-19,Onboard Injury,Goa,2,0,Crew treated
+Container Ship,2023-07-27,Sinking,Chennai,2,12,Vessel lost
+Oil Tanker,2023-12-25,Overloading,Off Mangalore,1,0,No vessel loss
+Tug,2023-05-23,Flooding,Off Mangalore,0,0,No vessel loss
+Chemical Tanker,2023-06-19,Man Overboard,East Godavari,0,1,Fatality
+Fishing Boat,2023-10-12,Collision,Mumbai Port,0,1,Vessel damaged
+Passenger Boat,2023-09-03,Grounding,Kochi,0,1,No vessel loss
+Chemical Tanker,2023-11-23,Onboard Injury,Off Mangalore,2,0,Crew treated
+Fishing Boat,2023-06-08,Sinking,Chennai,2,1,Vessel lost
+Fishing Boat,2023-05-04,Collision,Goa,2,0,Vessel damaged
+Container Ship,2023-08-05,Flooding,Andaman & Nicobar,1,0,No vessel loss
+Fishing Boat,2023-11-06,Grounding,At Sea,1,1,No vessel loss
+Oil Tanker,2023-02-14,Flooding,Chennai,1,0,No vessel loss
+Fishing Boat,2023-08-23,Sinking,Off Mangalore,2,12,Vessel lost
+Bulk Carrier,2023-10-16,Overloading,Goa,1,0,No vessel loss
+Chemical Tanker,2023-04-04,Sinking,Kolkata,2,1,Vessel lost
+Ferry,2023-04-17,Collision,Mumbai Port,1,0,Vessel damaged
+Dredger,2023-05-02,Overloading,Kochi,0,1,No vessel loss
+Dredger,2023-09-02,Grounding,Andaman & Nicobar,1,1,No vessel loss
+Oil Tanker,2023-09-03,Overloading,Goa,1,1,No vessel loss
+Oil Tanker,2023-01-24,Onboard Injury,Kochi,1,0,Crew treated
+Passenger Boat,2023-12-18,Onboard Injury,Kolkata,3,0,Crew treated
+Tug,2023-08-12,Grounding,Andaman & Nicobar,0,0,No vessel loss
+Oil Tanker,2023-02-13,Onboard Injury,Chennai,2,0,Crew treated
+Chemical Tanker,2023-09-12,Flooding,Andaman & Nicobar,1,1,No vessel loss
+Tug,2023-05-05,Fire & Explosion,East Godavari,0,0,Vessel damaged
+Oil Tanker,2023-01-12,Flooding,East Godavari,0,1,No vessel loss
+Dredger,2023-04-06,Onboard Injury,Chennai,1,0,Crew treated
+Ferry,2023-05-01,Sinking,Chennai,0,18,Vessel lost
+Tug,2023-03-24,Onboard Injury,Chennai,1,0,Crew treated
+Dredger,2023-03-20,Sinking,East Godavari,2,1,Vessel lost
+Container Ship,2023-09-09,Sinking,Kochi,2,3,Vessel lost
+Chemical Tanker,2023-12-17,Flooding,Andaman & Nicobar,1,1,No vessel loss
+Passenger Boat,2023-11-25,Onboard Injury,Chennai,3,0,Crew treated
+Fishing Boat,2023-03-26,Sinking,Chennai,2,18,Vessel lost
+Passenger Boat,2023-06-30,Capsize,Goa,2,17,Vessel lost
+Fishing Boat,2023-08-04,Flooding,Off Mangalore,0,1,No vessel loss
+Container Ship,2023-11-23,Fire & Explosion,Kochi,0,1,Vessel lost
+Bulk Carrier,2023-06-26,Grounding,Mumbai Port,1,1,No vessel loss
+Ferry,2023-06-10,Sinking,Chennai,0,19,Vessel lost
+Passenger Boat,2023-10-01,Sinking,Off Mangalore,1,19,Vessel lost
+Tug,2023-11-13,Man Overboard,Kochi,0,1,Fatality
+Tug,2023-07-30,Grounding,At Sea,1,0,No vessel loss
+Tug,2023-07-01,Capsize,Off Mangalore,2,11,Vessel lost
+Dredger,2023-08-30,Man Overboard,Mumbai Port,0,1,Fatality
+Oil Tanker,2023-03-21,Man Overboard,Chennai,0,1,Fatality
+Container Ship,2023-09-22,Collision,Kolkata,1,0,Vessel damaged
+Dredger,2023-01-01,Capsize,East Godavari,2,6,Vessel lost
+Fishing Boat,2023-09-27,Grounding,East Godavari,1,1,No vessel loss
+Ferry,2023-11-10,Man Overboard,Kolkata,0,1,Fatality
+Chemical Tanker,2023-11-27,Grounding,East Godavari,0,1,No vessel loss
+Tug,2023-03-05,Sinking,Kolkata,2,14,Vessel lost
+Dredger,2023-04-29,Overloading,Andaman & Nicobar,0,0,No vessel loss
+Fishing Boat,2023-07-25,Capsize,Goa,1,15,Vessel lost
+Tug,2023-06-06,Flooding,Off Mangalore,1,0,No vessel loss
+Dredger,2023-06-05,Grounding,Andaman & Nicobar,0,0,No vessel loss
+Fishing Boat,2023-02-10,Man Overboard,Kolkata,0,1,Fatality
+Container Ship,2023-09-05,Fire & Explosion,Off Mangalore,1,0,Vessel damaged
+Container Ship,2023-10-23,Overloading,Chennai,0,1,No vessel loss
+Tug,2023-12-24,Fire & Explosion,Chennai,1,0,Vessel damaged
+Chemical Tanker,2023-12-04,Collision,Kochi,1,1,Vessel damaged
+Container Ship,2023-04-04,Grounding,East Godavari,0,0,No vessel loss
+Container Ship,2023-03-17,Flooding,At Sea,1,0,No vessel loss
+Chemical Tanker,2023-08-10,Man Overboard,East Godavari,0,1,Fatality
+Fishing Boat,2023-09-15,Sinking,Goa,0,11,Vessel lost
+Dredger,2023-10-29,Capsize,Kolkata,0,16,Vessel lost
+Chemical Tanker,2023-05-05,Sinking,Kolkata,2,20,Vessel lost
+Passenger Boat,2023-08-12,Flooding,At Sea,1,0,No vessel loss
+Bulk Carrier,2023-02-17,Grounding,Kochi,0,1,No vessel loss
+Ferry,2023-06-20,Man Overboard,Goa,0,1,Fatality
+Tug,2023-03-13,Overloading,Kochi,0,0,No vessel loss
