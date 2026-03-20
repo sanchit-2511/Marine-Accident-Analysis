@@ -1,6 +1,5 @@
 # ⚓ Marine Accident Analysis Dashboard (India 2023)
 
---
 
 ## 🧠 Project Overview
 
@@ -8,10 +7,8 @@ This project provides a comprehensive analysis of marine accidents occurring in 
 
 The goal is to identify patterns in maritime mishaps to support better safety protocols and resource allocation for rescue operations.
 
---
 
 ## ❓ Business / Analytical Questions
-
 
 Which vessel types (e.g., Tugs, Fishing Boats) are most prone to accidents?
 
@@ -23,18 +20,18 @@ Which locations (ports/coasts) require enhanced maritime surveillance?
 
 What percentage of accidents result in a total vessel loss?
 
---
 
 ## 📁 Dataset Information
+
 Source: Marine Accident Records (India, 2023)
 
 Key Features: Vessel Type, Accident Type (Sinking, Fire, etc.), Location, Fatalities, Injuries, and Outcome.
 
 Size: 186 recorded incidents across major Indian maritime hubs.
 
---
 
 ## 📊 Dashboard Features
+
 KPI Tiles: Instant view of Total Accidents, Deaths, and Injuries.
 
 Risk Metrics: Custom measures for "Death Rate per Accident" and "% Vessel Loss".
@@ -45,13 +42,11 @@ Geospatial Analysis: Mapping of accidents across locations like Kolkata, Goa, an
 
 Interactive Slicers: Filter data by Vessel Type, Location, or Outcome.
 
---
 
 ## 🖼️ Dashboard Preview
 
-.
+![Dashboard](https://github.com/sanchit-2511/Marine-Accident-Analysis/blob/abf26bc887bb3e02683245c298b7be510c02bf6a/Images/Screenshot%20(88).png)
 
---
 
 ## 🔍 Key Insights
 
@@ -61,7 +56,6 @@ Severity Hotspots: While some locations have more accidents, others have a highe
 
 Temporal Trends: The rolling average reveals specific months where maritime risks peak, potentially linked to monsoon seasons.
 
---
 
 ## 💡 Recommendations
 
@@ -71,7 +65,6 @@ Regional Training: Focus rescue and safety training in locations identified as h
 
 Predictive Monitoring: Use the rolling average trends to increase maritime patrolling during high-risk months.
 
---
 
 ## 🤖 Analytical Measures (DAX)
 
@@ -83,7 +76,6 @@ Vessel Loss %: DIVIDE(COUNTROWS(FILTER(Table, [Outcome]="Vessel lost")), [Total 
 
 Fatality Rate: Logical division of total deaths by total incident count per category.
 
---
 
 ## 🛠️ Tools & Technologies Used
 
@@ -95,7 +87,6 @@ Power Query: Data cleaning and transformation.
 
 Excel/CSV: Data source.
 
---
 
 ## 🚀 How to View the Project
 
@@ -105,10 +96,16 @@ Open it using Power BI Desktop.
 
 If the data links are broken, point the data source to the marine_accidents_india_2023.csv file in the Data/ folder.
 
---
+
+## Project Structure
+
+Data
+Dashboard
+Documentation
+Images
+README.md
 
 ## 🙌 Author
 
 Sanchit G. Barne
 
---
