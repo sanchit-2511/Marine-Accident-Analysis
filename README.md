@@ -104,37 +104,30 @@ o Fatality Rate: Logical division of total deaths by total incident count per ca
 - If the data links are broken, point the data source to the marine_accidents_india_2023.csv file in the Data/ folder.
 
 
-## Project Structure
+## 📁 Project Structure
 
-### Marine-Accident-Analysis/
+#### Marine-Accident-Analysis/
 │
 
 ├── Data/
 
-│ └── [air_quality_india.csv](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Data/air_quality_india.csv)
-
-│
+│ └── [marine-accidents-india-2023.csv](https://github.com/sanchit-2511/Marine-Accident-Analysis/blob/03fd379a3ea821e7aecb4da1bf1976c0233c870b/Data/marine_accidents_india_2023.csv)
 
 ├── Dashboard/
 
-│ └── [air_quality_india.csv](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Data/air_quality_india.csv)
-
-│
+│ └── [marine-accident-dashboard.pbix](https://github.com/sanchit-2511/Marine-Accident-Analysis/blob/03fd379a3ea821e7aecb4da1bf1976c0233c870b/Dashboard/Marine%20Accident%20Dashboard.pbix)
 
 ├── Documentation/
 
-│ └── [air_quality_india.csv](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Data/air_quality_india.csv)
-
-│
+│ └── [calculated-measures.csv](https://github.com/sanchit-2511/Marine-Accident-Analysis/blob/03fd379a3ea821e7aecb4da1bf1976c0233c870b/Documentation/Calculated%20Measures.csv)
 
 ├── Images/
 
-│ └── [air_quality_india.csv](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Data/air_quality_india.csv)
-
-│
+│ └── [dashboard.png](https://github.com/sanchit-2511/Marine-Accident-Analysis/blob/03fd379a3ea821e7aecb4da1bf1976c0233c870b/Images/Screenshot%20(88).png)
 
 └── README.md
 
+---
 
 ## 🙌 Author
 
